@@ -2,3 +2,6 @@
 	path = Components/ThirdParty/Matter/repo
 	url = https://github.com/Qorvo/connectedhomeip
 	branch = v1.1.0.1_qorvo
+[submodule "ot-qorvo"]
+	path = ot-qorvo
+	url = https://github.com/openthread/ot-qorvo
